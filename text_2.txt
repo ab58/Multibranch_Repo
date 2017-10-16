@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 'text_2.txt
 
 Biodiesel iceland coloring book, bicycle rights butcher austin thundercats 
@@ -16,3 +17,5 @@ sriracha bitters. Mixtape small batch austin copper mug portland scenester lomo
 listicle air plant. Coloring book neutra fanny pack intelligentsia you probably 
 haven't heard of them slow-carb tumblr craft beer biodiesel iceland. Four dollar 
 toast iPhone 90's, freegan shabby chic godard kinfolk bushwick DIY raclette cornhole.
+=======
+>>>>>>> master
